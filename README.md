@@ -9,3 +9,21 @@ The MOSC Exchange app provides a simple solution to access the hospital's depart
 Although the app only contains phone numbers for different departments, it still plays a crucial role in facilitating communication and accessibility in the hospital. Doctors and staff can quickly access the phone numbers they need without having to navigate through the hospital's complex systems. The app's straightforward interface makes it user-friendly for all ages and backgrounds.
 
 Overall, MOSC Exchange is a practical and useful tool that simplifies the hospital experience for doctors and staff. By providing easy access to phone numbers for different departments, the app saves doctors and staff time and reduces frustration. The app is a testament to the interns' commitment to improving the hospital experience for  doctors and staff in the MOSC Medical College hospital community.
+
+
+<b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
+<kbd>
+<img src="https://github.com/BriceJoshy/hospital_app/blob/master/screenshots/ss_1.png" width=30% height=30%/>
+<img src="https://github.com/BriceJoshy/hospital_app/blob/master/screenshots/ss_2.png" width=30% height=30%/>
+<img src="https://github.com/BriceJoshy/hospital_app/blob/master/screenshots/ss_3.png" width=30% height=30%/>
+<img src="https://github.com/BriceJoshy/hospital_app/blob/master/screenshots/ss_4.png" width=30% height=30%/>
+<img src="https://github.com/BriceJoshy/hospital_app/blob/master/screenshots/ss_5.png" width=30% height=30%/>
+<img src="https://github.com/BriceJoshy/hospital_app/blob/master/screenshots/ss_6.png" width=30% height=30%/>
+<img src="https://github.com/BriceJoshy/hospital_app/blob/master/screenshots/ss_7.png" width=30% height=30%/>
+<img src="https://github.com/BriceJoshy/hospital_app/blob/master/screenshots/ss_8.png" width=30% height=30%/>
+<img src="https://github.com/BriceJoshy/hospital_app/blob/master/screenshots/ss_9.png" width=30% height=30%/>
+</kbd>
+<br>
+<br>
+
+
