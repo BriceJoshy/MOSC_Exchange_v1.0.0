@@ -1,4 +1,5 @@
-# hospital_app
+# MOSC EXCHANCE
+
 A flutter based mobile application
 
 MOSC Exchange is a mobile application designed to improve communication and accessibility in the MOSC Medical College hospital in Kolenchery, India. The app was created  as an initiative by the interns in 2017 to address the challenges faced by doctors and staff in the hospital.
